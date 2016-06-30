@@ -45,3 +45,20 @@ Here the posts are stored
 
 ![post](https://cloud.githubusercontent.com/assets/19251508/16495312/7ee194ac-3f0a-11e6-8cba-f39cc264f66f.jpg)
 
+When the option of user options is pressed,
+1. For viewer
+
+![viewer](https://cloud.githubusercontent.com/assets/19251508/16495488/535766d0-3f0b-11e6-9514-6c897517cedd.jpg)
+
+2.For Editor
+
+![editor](https://cloud.githubusercontent.com/assets/19251508/16495497/5f40ebce-3f0b-11e6-8453-fae9e1126e94.jpg)
+
+3.For Admin
+
+![admin](https://cloud.githubusercontent.com/assets/19251508/16495491/598f7024-3f0b-11e6-82b8-3c4cf6dcc9a6.jpg)
+
+When the option of admin panel is pressed 
+In this page, the admins can't be changed to oter levels but other users can be by clicking on their present level
+
+![adminpanel](https://cloud.githubusercontent.com/assets/19251508/16495502/65d980fe-3f0b-11e6-8927-583ff774f0bc.jpg)
