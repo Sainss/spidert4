@@ -79,7 +79,7 @@ align:right;
 
   <div id="menu">
    <ul>
-        <li><a href="">Home</a></li>
+        <li><a href="login.php">Home</a></li>
          <li><a href="profile.php?id=<?php echo $id; ?>">User options</a></li>
         <li><a href="logout.php">Logout</a></li>
    </ul>
@@ -125,7 +125,8 @@ align="center" border="1">
 </tr>
 <tr>
 <td>Posted at</td><td><?php echo $row[3];?></td>
-<tr> 
+<tr> 
+
 
 </table>
 
