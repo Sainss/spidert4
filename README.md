@@ -16,4 +16,6 @@ login.php->index.php->[1.Home->login.php]
 1. Download PHP, Apache and MySQL for your system
       1.Link to download XAMPP for windows. [XAMPP](https://sourceforge.net/projects/xampp/?source=directory)
       2.For linux [LAMP](https://bitnami.com/stack/lamp/installer)
-2.Clone the github repo ''git clone https://github.com/Sainss/spidert2.git''
+2.Clone the github repo ''git clone https://github.com/Sainss/spidert4.git''
+
+
