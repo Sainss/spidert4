@@ -12,16 +12,16 @@ $conn = new mysqli( 'localhost', 'root', '', 'forum' );
   
 }
 
-$username=$_GET['username'];
+$id=$_GET['id'];
 $userlevel=$_GET['userlevel'];
 
 if($userlevel=='2'){
-$update="UPDATE reglogin SET userlevel='3' WHERE Username='$username'";
+$update="UPDATE reglogin SET userlevel='3' WHERE ID='$id'";
  mysqli_query($conn,$update);
  echo 'User level changed';
 }
 else if($userlevel=='3'){
-$update="UPDATE 'reglogin' SET userlevel='2' WHERE Username='$username'";
+$update="UPDATE 'reglogin' SET userlevel='2' WHERE ID='$id'";
 mysqli_query($conn,$update);
 echo 'User level changed';
 }
