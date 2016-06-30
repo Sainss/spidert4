@@ -18,4 +18,13 @@ login.php->index.php->[1.Home->login.php]
       2.For linux [LAMP](https://bitnami.com/stack/lamp/installer)
 2.Clone the github repo ''git clone https://github.com/Sainss/spidert4.git''
 
+The main page of the website
+
+![login](https://cloud.githubusercontent.com/assets/19251508/16494981/1a065d84-3f09-11e6-9cb9-b2c5b6222e72.jpg)
+
+The registration page
+
+![register](https://cloud.githubusercontent.com/assets/19251508/16494990/1f830488-3f09-11e6-8d22-2c8f55eb6e4b.jpg)
+
+When a admin user logs into the bulletin board
 
