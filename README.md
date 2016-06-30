@@ -26,7 +26,7 @@ The registration page
 
 ![register](https://cloud.githubusercontent.com/assets/19251508/16494990/1f830488-3f09-11e6-8d22-2c8f55eb6e4b.jpg)
 
-When a admin user logs into the bulletin board
+When a admin user logs into the bulletin board,if he clicks the delete button the post gets deleted 
 
 ![adminuser](https://cloud.githubusercontent.com/assets/19251508/16495183/e720d1d2-3f09-11e6-8da4-6ddbcd615e1b.jpg)
 
