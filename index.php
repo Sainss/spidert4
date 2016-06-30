@@ -80,7 +80,7 @@ align:right;
   <div id="menu">
    <ul>
         <li><a href="login.php">Home</a></li>
-         <li><a href="profile.php?id=$id">User options</a></li>
+         <li><a href="<a href="profile.php?id=<?php echo $id; ?>">User options</a></li>
         <li><a href="logout.php">Logout</a></li>
    </ul>
   </div>
