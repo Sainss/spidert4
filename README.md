@@ -32,3 +32,16 @@ When a admin user logs into the bulletin board
 
 When a user who is not an admin logs into the bulletin board
 ![otheruser](https://cloud.githubusercontent.com/assets/19251508/16495185/ea482234-3f09-11e6-9c63-cb75848a5a6f.jpg)
+
+The user data is stored here which is used for registration and login purposes
+
+![reg](https://cloud.githubusercontent.com/assets/19251508/16495303/7043bb50-3f0a-11e6-9dd7-06b8b95b9832.jpg)
+
+Here the names of the userlevels are stored that is when a new account is made ,then it is registered as userlevel 3 which corresponds to Viewer
+
+![ul](https://cloud.githubusercontent.com/assets/19251508/16495310/79b816d6-3f0a-11e6-9e59-25534434036b.jpg)
+
+Here the posts are stored
+
+![post](https://cloud.githubusercontent.com/assets/19251508/16495312/7ee194ac-3f0a-11e6-8cba-f39cc264f66f.jpg)
+
