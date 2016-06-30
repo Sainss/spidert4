@@ -6,10 +6,10 @@ $conn = new mysqli( 'localhost', 'root', '', 'forum' );
   }
 if(isset($_POST['delete'])){
     $id=$_POST['id'];
-           $query = "DELETE FROM posts WHERE id=$id"; 
+           $query = "DELETE FROM posts WHERE id='$id'"; 
            $result = mysqli_query($conn,$query);
 
-            header('location:index.php');
+            header('location:index.php?id=1');
 
 }
 ?>
