@@ -12,7 +12,7 @@ $conn = new mysqli( 'localhost', 'root', '', 'forum' );
 $id=$_GET['id'];
 
 
-$query="SELECT Username , userlevel FROM reglogin WHERE ID=$id";
+$query="SELECT Username , userlevel FROM reglogin WHERE ID='$id'";
 $result=mysqli_query($conn,$query);
 $row=mysqli_fetch_array($result);
 $username=$row['Username'];
