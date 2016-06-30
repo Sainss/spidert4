@@ -20,7 +20,7 @@ if($row=mysqli_fetch_array($result) ){
     session_start();
     $_SESSION['forum']='true';
 
-    header('location:index.php?id=$row[0]');
+    header("location:index.php?id=". $row[0]);
 }
 else{
 echo '<strong>Invalid username or password</strong>';
