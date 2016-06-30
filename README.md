@@ -62,3 +62,12 @@ When the option of admin panel is pressed
 In this page, the admins can't be changed to oter levels but other users can be by clicking on their present level
 
 ![adminpanel](https://cloud.githubusercontent.com/assets/19251508/16495502/65d980fe-3f0b-11e6-8927-583ff774f0bc.jpg)
+
+
+When a user is either editor or admin ,he gets an option to create new post on clicking the following page appears
+
+![new](https://cloud.githubusercontent.com/assets/19251508/16495660/11e6291a-3f0c-11e6-909d-85e511e3274b.jpg)
+
+After a new post is made,
+
+![add](https://cloud.githubusercontent.com/assets/19251508/16495675/1d6b3bd6-3f0c-11e6-92b6-cc070267cd78.jpg)
