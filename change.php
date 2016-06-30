@@ -18,10 +18,12 @@ $userlevel=$_GET['userlevel'];
 if($userlevel=='2'){
 $update="UPDATE reglogin SET userlevel='3' WHERE Username='$username'";
  mysqli_query($conn,$update);
+ echo 'User level changed';
 }
 else if($userlevel=='3'){
 $update="UPDATE 'reglogin' SET userlevel='2' WHERE Username='$username'";
 mysqli_query($conn,$update);
+echo 'User level changed';
 }
 
 ?>
