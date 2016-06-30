@@ -28,3 +28,7 @@ The registration page
 
 When a admin user logs into the bulletin board
 
+![adminuser](https://cloud.githubusercontent.com/assets/19251508/16495183/e720d1d2-3f09-11e6-8da4-6ddbcd615e1b.jpg)
+
+When a user who is not an admin logs into the bulletin board
+![otheruser](https://cloud.githubusercontent.com/assets/19251508/16495185/ea482234-3f09-11e6-9c63-cb75848a5a6f.jpg)
