@@ -57,10 +57,10 @@ if($row[6]==1)
 }
 else if($row[6]==2)
 {
-echo " <a href='change.php?username=$row[4]&userlevel=$row[6]'>Editor</a>";
+echo " <a href='change.php?id=$row[0]&userlevel=$row[6]'>Editor</a>";
 }
 else{
-echo " <a href='change.php?username=$row[4]&userlevel=$row[6]'>Viewer</a>";
+echo " <a href='change.php?id=$row[0]&userlevel=$row[6]'>Viewer</a>";
 }
 ?></td>
 </tr>
